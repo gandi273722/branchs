@@ -3,7 +3,7 @@ create or replace proceedure ()
 {
 	system.out.println(today is monday);
       {
-	      a=10;
+	      a=1000;
 
       }      
 }
